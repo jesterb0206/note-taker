@@ -34,3 +34,12 @@ app.get("/", (req, res) => {
 app.get("/notes", (req, res) => {
   res.sendFile(path.join(__dirname, "/public/notes.html"));
 });
+
+// API Routes
+
+// Retrieves Notes from JSON File
+
+app.get("/api/notes", (req, res) => {
+  res.sendFile(path.join(__dirname, "db/db.json"));
+  console.log(`${req.method} request received to retrieve notes`);
+});
