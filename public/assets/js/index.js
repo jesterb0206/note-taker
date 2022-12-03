@@ -37,7 +37,7 @@ const getNotes = () =>
   });
 
 const saveNote = (note) =>
-  fetch("/api/notes", {
+  fetch("/notes", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
@@ -152,7 +152,7 @@ const renderNoteList = async (notes) => {
         "fas",
         "fa-trash-alt",
         "float-right",
-        "baby-blue",
+        "text-danger",
         "delete-note"
       );
       delBtnEl.addEventListener("click", handleNoteDelete);
