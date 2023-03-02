@@ -48,29 +48,17 @@ Press the floppy disk icon in the right-hand corner of the screen to save the no
 
 To delete the note press the trash can icon on the right-hand side of it.
 
-## Contributing
-
-N/A
-
-## Tests
-
-N/A
-
 ## Questions
 
 If you have any additional questions, you can reach me at:
 
 ### GitHub
 
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
 [jesterb0206](https://www.github.com/jesterb0206)
 
 ### Email
 
-![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
-
-jesterb@seattleu.edu
+bradleyjester0@gmail.com
 
 ## Badges
 
@@ -81,8 +69,6 @@ jesterb@seattleu.edu
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-
-![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jesterb0206&theme=gruvbox)
 
 ## License
 
